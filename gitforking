@@ -1,0 +1,3 @@
+A fork is a server-side copy of a Git repository under your own account on a hosting platform like GitHub or GitLab. 
+It lets you freely change code without affecting the original project and is the main way to propose changes via pull requests.
+Note that "fork" is a hosting platform action, not a built-in command in core Git
